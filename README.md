@@ -4,7 +4,7 @@ Goodfeelin is a simple music player where users are able to play a chillhop play
 
 ## Live Demo
 
-Live version hosted [here]()
+Live version hosted [here](https://frederick-chon.github.io/goodfeelin/)
 
 ## Built Using
 
